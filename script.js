@@ -6,7 +6,7 @@
 */
 
 const phrases = [
-  "DJ play Mr. Brightside",
+  "DJ plays Mr. Brightside",
   "Connor Lewis cameo",
   "Someone spills a drink",
   "Split the G (self)",
@@ -24,7 +24,7 @@ const phrases = [
   "Altercation",
   "Trade completed in Dynasty",
   "Tony falls asleep",
-  "JT DMFO",
+  "JT DFMO",
   "Jager bomb (self)",
   "Tequila shot (self)",
   "Tommy says bye to everyone",
@@ -46,6 +46,10 @@ const phrases = [
   "Eric talks to a girl",
   "Receive the N pass (self)",
   "John sees a guy he knows",
+  "Bathroom vlog hits the GC",
+  "DJ plays Best I Ever Had",
+  "DJ plays The Spins",
+  "Someone gets hit by a car",
 ];
 
 const STORAGE_KEY = "toofy-bow-2026-card-v1";
